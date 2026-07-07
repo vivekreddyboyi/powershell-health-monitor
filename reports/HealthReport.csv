@@ -1,0 +1,6 @@
+Name,DisplayName,Status
+Spooler,Print Spooler,Running
+WinRM,Windows Remote Management,Running
+W32Time,Windows Time,Running
+BITS,Background Intelligent Transfer Service,Running
+LanmanServer,Server,Running
