@@ -1,1 +1,10 @@
-
+PowerShell Script
+        |
+        v
+Retrieve Windows Services
+        |
+        v
+Generate CSV Report
+        |
+        v
+HealthReport.csv
